@@ -1,0 +1,29 @@
+{
+  "name": "buttercms-blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "buttercms-blog",
+  "author": "Miracle Jude",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@chakra-ui/gatsby-plugin": "^3.0.6",
+    "@chakra-ui/react": "^2.3.7",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "dotenv": "^16.0.3",
+    "framer-motion": "^7.6.4",
+    "gatsby": "^4.24.6",
+    "gatsby-source-buttercms": "^2.2.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
